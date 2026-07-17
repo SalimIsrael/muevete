@@ -1,0 +1,142 @@
+[
+  {
+    "nombre": "Sentadillas",
+    "descripcion": "Haz 10 sentadillas. Baja hasta que los muslos queden paralelos al suelo.",
+    "beneficio": "Activa piernas y glúteos, mejora la circulación y reduce la rigidez por estar sentado.",
+    "duracion_segundos": 60,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Caminata",
+    "descripcion": "Camina 5 minutos por casa u oficina. Levántate ahora.",
+    "beneficio": "Baja la glucosa en sangre, oxigena el cerebro y corta el estrés acumulado frente a la pantalla.",
+    "duracion_segundos": 300,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Escaleras",
+    "descripcion": "Sube y baja las escaleras 2 veces a ritmo moderado.",
+    "beneficio": "Eleva el ritmo cardíaco de forma breve y fortalece piernas sin equipo.",
+    "duracion_segundos": 120,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Estiramiento de cuello",
+    "descripcion": "Inclina la cabeza a cada lado 15 segundos. Repite 3 veces por lado.",
+    "beneficio": "Alivia tensión en cuello y trapecios, muy común al mirar el monitor.",
+    "duracion_segundos": 90,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Hombros",
+    "descripcion": "Rota los hombros hacia atrás 15 veces, luego hacia adelante 15 veces.",
+    "beneficio": "Libera la postura encorvada y reduce molestias en hombros y parte alta de la espalda.",
+    "duracion_segundos": 60,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Gato-vaca",
+    "descripcion": "En el suelo o de pie apoyado: arquea y redondea la espalda 10 veces.",
+    "beneficio": "Moviliza la columna y alivia la rigidez lumbar por horas sentado.",
+    "duracion_segundos": 90,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Elevaciones de talón",
+    "descripcion": "De pie, levántate en puntas de pie 20 veces.",
+    "beneficio": "Activa la circulación en piernas y tobillos; ayuda a prevenir hinchazón.",
+    "duracion_segundos": 60,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Flexiones en pared",
+    "descripcion": "15 flexiones apoyando las manos en la pared, a un brazo de distancia.",
+    "beneficio": "Activa pecho, brazos y core sin impacto; despierta el cuerpo tras estar quieto.",
+    "duracion_segundos": 60,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Regla 20-20-20",
+    "descripcion": "Mira un punto a 6 metros de distancia durante 20 segundos.",
+    "beneficio": "Descansa el enfoque ocular y reduce fatiga visual por pantallas.",
+    "duracion_segundos": 30,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Respiración",
+    "descripcion": "5 respiraciones profundas: inhala 4 seg, mantén 4 seg, exhala 6 seg.",
+    "beneficio": "Baja el estrés, mejora la concentración y da un reset mental rápido.",
+    "duracion_segundos": 90,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Estiramiento de muñecas",
+    "descripcion": "Estira muñecas y dedos 30 segundos por mano.",
+    "beneficio": "Previene molestias por teclado y mouse; cuida tendones y antebrazos.",
+    "duracion_segundos": 60,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Marcha en el sitio",
+    "descripcion": "Camina en el sitio levantando rodillas 1 minuto.",
+    "beneficio": "Activa cadera y piernas sin salir del cuarto; ideal si no puedes caminar lejos.",
+    "duracion_segundos": 60,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Estiramiento de pecho",
+    "descripcion": "Entrelaza las manos detrás de la espalda y abre el pecho 20–30 segundos. Repite 2 veces.",
+    "beneficio": "Compensa la postura hacia adelante frente a la pantalla y abre la respiración.",
+    "duracion_segundos": 60,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Cuádriceps",
+    "descripcion": "De pie, lleva un talón al glúteo y sostén 20 segundos por pierna.",
+    "beneficio": "Estira la parte frontal del muslo, rígida tras estar mucho tiempo sentado.",
+    "duracion_segundos": 60,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Balanceo de cadera",
+    "descripcion": "Con manos en la cintura, haz círculos lentos de cadera 10 veces por lado.",
+    "beneficio": "Moviliza la pelvis y reduce rigidez en zona lumbar y caderas.",
+    "duracion_segundos": 60,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Ojos cerrados + respiración",
+    "descripcion": "Cierra los ojos 30 segundos y respira lento. Luego abre y enfoca lejos.",
+    "beneficio": "Combina descanso visual y mental; útil en jornadas intensas de lectura o código.",
+    "duracion_segundos": 45,
+    "tipo": "corto"
+  },
+  {
+    "nombre": "Caminata larga",
+    "descripcion": "Camina 10 minutos por casa, patio u oficina. Sin celular si puedes.",
+    "beneficio": "Tras varias horas sentado, un descanso largo recupera circulación, energía y claridad mental.",
+    "duracion_segundos": 600,
+    "tipo": "largo"
+  },
+  {
+    "nombre": "Paseo + agua",
+    "descripcion": "Camina 10 minutos y toma un vaso de agua durante o al terminar.",
+    "beneficio": "Combina movimiento e hidratación; ayuda a mantener energía en jornadas largas.",
+    "duracion_segundos": 600,
+    "tipo": "largo"
+  },
+  {
+    "nombre": "Escaleras + caminata",
+    "descripcion": "Sube y baja escaleras 3 veces y luego camina 5–7 minutos más.",
+    "beneficio": "Activa el sistema cardiovascular y corta el sedentarismo prolongado.",
+    "duracion_segundos": 600,
+    "tipo": "largo"
+  },
+  {
+    "nombre": "Estiramiento completo",
+    "descripcion": "10 minutos: cuello, hombros, espalda, cadera y piernas. Muévete sin prisa.",
+    "beneficio": "Libera tensión acumulada en todo el cuerpo después de varias horas de trabajo.",
+    "duracion_segundos": 600,
+    "tipo": "largo"
+  }
+]
